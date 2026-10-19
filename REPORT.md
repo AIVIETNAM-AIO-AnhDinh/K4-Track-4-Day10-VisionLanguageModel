@@ -1,4 +1,4 @@
-Họ tên: Anh Dinh
+Họ tên: Đinh Lệnh Tiến Anh
 `dataset_version`: d10-21e4070301
 
 > Toàn bộ số liệu lấy từ một lần chạy notebook `lab_day10.ipynb` trên **Kaggle, 1× Tesla T4** (tổng 5,68 giờ), chấm trên **test (311 ảnh)** bằng `scripts/score.py`. Số liệu bổ sung (bootstrap ghép cặp, chấm lệch thang, rò rỉ khi chia ngẫu nhiên, kích thước box) tính lại bằng `python report/analysis.py` từ đúng các file dự đoán `work/*.jsonl` của lần chạy đó.
